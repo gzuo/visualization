@@ -12,7 +12,7 @@
 
         ### [My Answer]
 
-        #### Good Example
+        #### Good Example [Link](https://public.tableau.com/app/profile/francisco8181/viz/WealthManagement_17210375097540/Overview)
 
         ![Good Example](assignment_2_good_example.jpg)
 
@@ -24,7 +24,7 @@
         - The ability to sort by FUM in the client details table adds interactivity and enhances the usability of the data.<br>
         - Bar charts, pie charts, and tables are used appropriately for different types of data, aiding in quick comprehension.<br>
 
-        #### Bad Example
+        #### Bad Example [Link](https://64.media.tumblr.com/282d910291fd14d4a36c4b5b2174553d/2c8df8348c39cc13-ac/s1280x1920/c4ef54bbf4df92f7ab215eaa92bf4fa09b439ae5.jpg)
         ![Bad Example](assignment_2_bad_example.jpg)
 
         This spiral chart from The New York Times is a data visualization depicting new Covid-19 cases in the United States over time. The followings are the reasons why I think it’s a bad data visualization.<br>
