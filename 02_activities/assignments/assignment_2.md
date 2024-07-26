@@ -9,8 +9,21 @@
     - You can find data visualizations at https://public.tableau.com/app/discover or https://datavizproject.com/, or anywhere else you like! 
 - For each visualization (good and bad):  
     - Explain (with reference to material covered up to date, along with readings and other scholarly sources, as needed) why you classified that visualization the way you did.
+
+    ### [My Answer]
+    
+    ![Good Example](assignment_2_good_example1.jpg) ![Good Example](assignment_2_good_example2.jpg)
+
+
+    
+
       ```
       Your answer...
+      [Good Example]
+      https://public.tableau.com/app/profile/francisco8181/viz/WealthManagement_17210375097540/Overview
+
+      [Bad Example]
+    
 
 
 
