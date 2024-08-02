@@ -8,10 +8,10 @@
 - Using Python and one other data visualization software (Excel or free alternative, Tableau Public, any other tool you prefer), create two distinct visualizations from your dataset of choice.  
 - For each visualization, describe and justify: 
 ### [Visualization 1: Crime Distribution by Year and Category - Toronto]
-![V1](.\assignment_4_visualization_1.png)
+![V1](assignment_4_visualization_1.png)
 
 ### [Visualization 2: Age Cohort and Sex Distribution of Victims - Toronto]
-![V2](.\assignment_4_visualization_2.png)
+![V2](assignment_4_visualization_2.png)
 
     > What software did you use to create your data visualization?
       Both: Python (Jupyter Notebook) with the matplotlib and pandas libraries 
