@@ -13,7 +13,7 @@
         The wealth management client details and overview visualizations are generally well-structured and effective in terms of accessibility, reproducibility, and equity.
         - Accessibility - The layout is well-organized, with sections clearly delineated, making it easier for users to find specific information.  The charts and graphs use color to differentiate categories, aiding in quick visual interpretation.  It provides filters and sorting options which enhance usability, allowing users to tailor the view to their needs.
         - Reproducibility - The charts appear to be created with standard data visualization tools, which are widely available.  If the underlying data is accessible, others can reproduce similar visualizations using the same or comparable datasets.
-        - Equity - The visualization provides a detailed overview of various client metrics, which can help different stakeholders gain insights into wealth management.  It also allowd users to filter data based on specific criteria for diverse needs and perspectives.
+        - Equity - The visualization provides a detailed overview of various client metrics, which can help different stakeholders gain insights into wealth management.  It also allows users to filter data based on specific criteria for diverse needs and perspectives.
 
 
         
