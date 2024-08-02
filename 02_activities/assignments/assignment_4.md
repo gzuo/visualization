@@ -7,23 +7,48 @@
 - Choose a dataset of interest from the [City of Toronto’s Open Data Portal](https://www.toronto.ca/city-government/data-research-maps/open-data/) or [Ontario’s Open Data Catalogue](https://data.ontario.ca/). 
 - Using Python and one other data visualization software (Excel or free alternative, Tableau Public, any other tool you prefer), create two distinct visualizations from your dataset of choice.  
 - For each visualization, describe and justify: 
+### [Visualization 1: Crime Distribution by Year and Category - Toronto]
+![V1](assignment_4_visualization_1.png)
+
+### [Visualization 2: Age Cohort and Sex Distribution of Victims - Toronto]
+![V2](assignment_4_visualization_2.png)
+
     > What software did you use to create your data visualization?
+      Both: Python (Jupyter Notebook) with the matplotlib and pandas libraries 
 
     > Who is your intended audience? 
+      1. City officials, policymakers, and researchers.
+      2. Public health officials, community leaders, and social workers.
     
     > What information or message are you trying to convey with your visualization? 
+      1. This visualization shows how the number of crimes against persons varies across different categories over the years. It aims to highlight trends and fluctuations in crime rates, aiding in the understanding of crime dynamics in Toronto.
+      2. This bar plot illustrates the distribution of crime victims by age cohort and sex, identifying which demographic groups are most affected by crimes.
     
     > What design principles (substantive, perceptual, aesthetic) did you consider when making your visualization? How did you apply these principles? With what elements of your plots? 
+      1. Substantive: Focuses on the temporal distribution of different crime categories.
+         Perceptual: Uses a line plot to clearly depict changes over time, with distinct colors for each category.
+         Aesthetic: Ensures a clear distinction between categories with appropriate color schemes and markers.
+      2. Substantive: Highlights the demographic distribution of crime victims.
+         Perceptual: Uses a bar plot for straightforward comparison between age cohorts and sex.
+         Aesthetic: Utilizes different shades to distinguish between male and female victims.
     
     > How did you ensure that your data visualizations are reproducible? If the tool you used to make your data visualization is not reproducible, how will this impact your data visualization? 
+      Both: The code and dataset used to create this visualization are uploaded to the repo, anyone can use those to replicate it.
     
-    > How did you ensure that your data visualization is accessible?  
+    > How did you ensure that your data visualization is accessible? 
+      Both: I tried to use clear labels, legends, and color contrasts ensure readability for a broad audience. 
     
-    > Who are the individuals and communities who might be impacted by your visualization?  
+    > Who are the individuals and communities who might be impacted by your visualization? 
+      1. This visualization helps in understanding crime trends, potentially informing policy decisions and resource allocation to address crime issues. 
+      2. This visualization helps communities target specific age/sex cohort to reduce victimization.
     
     > How did you choose which features of your chosen dataset to include or exclude from your visualization? 
+      1. I selected REPORT_YEAR, CATEGORY, and COUNT_ to focus on temporal trends and categories of crimes.
+      2. I selected AGE_COHORT, SEX, and COUNT_ to highlight demographic details.
     
     > What ‘underwater labour’ contributed to your final data visualization product?
+      1. I did the data cleaning, aggregation by year and category, and chose the most effective visual representation.
+      2. I did data aggregation by age cohort and sex, and ensured the clarity and readability.
 
 - This assignment is intentionally open-ended - you are free to create static or dynamic data visualizations, maps, or whatever form of data visualization you think best communicates your information to your audience of choice! 
 - Total word count should not exceed **(as a maximum) 1000 words** 
